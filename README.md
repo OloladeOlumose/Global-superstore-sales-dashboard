@@ -22,7 +22,7 @@ This dashboard helps answer questions such as:
 
 ## Dashboard Preview
 
-![Dashboard](portfolioEdit.png)
+![Dashboard](dashboard.png)
 
 ---
 
