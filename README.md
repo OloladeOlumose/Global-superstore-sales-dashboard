@@ -1,18 +1,28 @@
 # 📊 Global Superstore Sales Dashboard
 
-## Overview
+## Project Overview
 
-This project analyzes the Global Superstore dataset using Microsoft Excel to provide insights into sales performance and business trends.
+This project analyzes the Global Superstore dataset using Microsoft Excel to uncover sales trends, customer behavior, and regional performance through an interactive dashboard.
 
 ---
 
-## Objectives
+## Business Problem
 
-- Analyze sales performance
-- Identify top-performing products
-- Evaluate regional sales
-- Track profit
-- Monitor customer activity
+Businesses need clear visibility into sales performance across products, customers, and regions to support strategic decision-making.
+
+This dashboard helps answer questions such as:
+
+- Which category generates the highest sales?
+- Which customers contribute the most revenue?
+- Which products perform best?
+- Which market performs best?
+- How have sales changed over time?
+
+---
+
+## Dashboard Preview
+
+![Dashboard](portfolioEdit.png)
 
 ---
 
@@ -22,7 +32,6 @@ This project analyzes the Global Superstore dataset using Microsoft Excel to pro
 - Pivot Tables
 - Pivot Charts
 - Excel Tables
-- KPI Cards
 
 ---
 
@@ -38,21 +47,29 @@ This project analyzes the Global Superstore dataset using Microsoft Excel to pro
 
 ## Key Insights
 
-- Sales performance by category
-- Regional comparison
-- Customer analysis
-- Product performance
+- Technology generated the highest sales.
+- APAC contributed significantly to total revenue.
+- Sales trends changed over multiple years.
+- Top customers contributed a substantial share of revenue.
 
 ---
 
-## Files
+## Files Included
 
-- Global Superstore Analysis.xlsx
-- Global Superstore.csv
+- Dashboard Workbook (.xlsx)
+- Dashboard PDF
+- Dataset (.csv)
 
 ---
 
 ## Author
-Moses
 
-Aspiring Data Analyst | Excel | Power Query | SQL (Learning)
+Olanrewaju Moses
+
+Aspiring Data Analyst
+
+Currently learning:
+- Excel
+- Power Query
+- SQL
+- Power BI
