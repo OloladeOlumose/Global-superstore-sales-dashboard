@@ -56,7 +56,3 @@ This project analyzes the Global Superstore dataset using Microsoft Excel to pro
 Benjamin
 
 Aspiring Data Analyst | Excel | Power Query | SQL (Learning)
-
-Benjamin
-
-Aspiring Data Analyst | Excel | Power Query | SQL (Learning)
